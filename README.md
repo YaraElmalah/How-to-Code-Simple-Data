@@ -33,7 +33,7 @@ Please make sure to follow the coding conventions and guidelines mentioned in th
 If you have any questions or suggestions regarding this repository, feel free to reach out to the project maintainer:
 
 - Yara Elmalah
-  - Email: yaraelmalah2016@gmail.com
+  - Email: yaraelmalah2016@gmail.com | yaraelmalah@gmail.com
   - Linkdin: [Yara Elmalah](https://www.linkedin.com/in/yara-elmalah/)
 
 We appreciate your interest and contributions to this repository. Happy coding with Racket!
