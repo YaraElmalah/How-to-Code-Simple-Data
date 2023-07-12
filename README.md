@@ -2,7 +2,7 @@
 
 This repository contains code and resources related to problems provided in How to code simple data course provided by UBC (university of british columbia) written in the Racket programming language. Racket is a modern, general-purpose programming language and a dialect of the Scheme programming language. It provides a rich set of tools and libraries for developing various types of applications, including web applications, games, and scripting.
 
-[How to Code Simple Data](https://www.edx.org/course/how-to-code-simple-data))
+[How to Code Simple Data](https://www.edx.org/course/how-to-code-simple-data)
 ## Getting Started
 
 To get started with Racket, you need to have Racket installed on your system. You can download the latest version of Racket from the official website: [https://racket-lang.org/](https://racket-lang.org/)
